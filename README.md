@@ -1,1 +1,1 @@
-This is a simple game of rock ,paper and scissors.
+This shows all the projects I've worked on using Python
